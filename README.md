@@ -52,13 +52,13 @@ BrickBalls is a console-based game where players strategically aim to clear bric
 2. Use commands (`ST`, `LD`, `RD`) to control the ball.
 3. Example grid layout:
    ```
-   W W W W W W W 
+   W W W W W W W W
    W             W
    W      1      W
    W   S         W
    W             W
    W   B         W
-   G G G G G G G 
+   G G G G G G G W
    ```
 
 ## Controls
